@@ -27,7 +27,7 @@ app.post('/compare', async (req, res) => {
       messages: [
         {
           role: "user",
-          content: `Compare the following dog breeds: ${breed1} and ${breed2}. Provide a detailed on their strengths and weaknesses be clear use bold text on breed `,
+          content: `Compare the following dog breeds: ${breed1} and ${breed2}. Provide a detailed on their strengths and weaknesses be clear use bold text on breed  `,
         },
       ],
       temperature: 0.7,
