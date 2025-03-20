@@ -66,4 +66,4 @@ Successful Response Example:
   "comparison": "Detailed comparison between Labrador Retriever and Golden Retriever..."
 }
 
-server lives at https://openai-backend-server.onrender.com
+server lives at  [Server] (https://openai-backend-server.onrender.com)
